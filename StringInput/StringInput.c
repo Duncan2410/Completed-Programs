@@ -1,0 +1,22 @@
+// StringInput.cpp : This file contains the 'main' function. Program execution begins and ends there.
+//
+#define _CRT_SECURE_NO_WARNINGS
+
+#include <stdio.h>
+
+int main() {
+	char name[100];
+	printf("Enter name\n");
+	scanf("%100s", name);
+	printf("Hello, %s!\n", name);
+}
+
+/*char name is making a string. scanf takes the input and stores it in the name array, then the %s! takes the name array and prints it */
+
+// Tips for Getting Started: 
+//   1. Use the Solution Explorer window to add/manage files
+//   2. Use the Team Explorer window to connect to source control
+//   3. Use the Output window to see build output and other messages
+//   4. Use the Error List window to view errors
+//   5. Go to Project > Add New Item to create new code files, or Project > Add Existing Item to add existing code files to the project
+//   6. In the future, to open this project again, go to File > Open > Project and select the .sln file

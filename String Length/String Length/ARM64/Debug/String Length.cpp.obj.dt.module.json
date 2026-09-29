@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "String Length\\ARM64\\Debug\\String Length.obj",
+            "outputs": [
+                "String Length\\ARM64\\Debug\\String Length.cpp.obj.dt.module.json",
+                "String Length\\ARM64\\Debug\\String Length.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
