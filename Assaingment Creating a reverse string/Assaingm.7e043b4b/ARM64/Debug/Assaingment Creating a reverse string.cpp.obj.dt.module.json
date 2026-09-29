@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Assaingm.7e043b4b\\ARM64\\Debug\\Assaingment Creating a reverse string.obj",
+            "outputs": [
+                "Assaingm.7e043b4b\\ARM64\\Debug\\Assaingment Creating a reverse string.cpp.obj.dt.module.json",
+                "Assaingm.7e043b4b\\ARM64\\Debug\\Assaingment Creating a reverse string.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="ARM64" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Character Sets.vcxproj" Id="f70ac155-99a9-486d-bc31-564c30d5c4fd" />
+</Solution>

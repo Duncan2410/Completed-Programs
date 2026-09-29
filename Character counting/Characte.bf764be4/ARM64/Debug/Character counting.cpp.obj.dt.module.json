@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Characte.bf764be4\\ARM64\\Debug\\Character counting.obj",
+            "outputs": [
+                "Characte.bf764be4\\ARM64\\Debug\\Character counting.cpp.obj.dt.module.json",
+                "Characte.bf764be4\\ARM64\\Debug\\Character counting.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

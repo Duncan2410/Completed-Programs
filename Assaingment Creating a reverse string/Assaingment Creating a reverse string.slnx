@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="ARM64" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Assaingment Creating a reverse string.vcxproj" Id="7e043b4b-3075-4ab0-95eb-afdc1c4ebcc1" />
+</Solution>
