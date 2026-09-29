@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Terminat.e783de4b\\ARM64\\Debug\\Terminatin a String.obj",
+            "outputs": [
+                "Terminat.e783de4b\\ARM64\\Debug\\Terminatin a String.cpp.obj.dt.module.json",
+                "Terminat.e783de4b\\ARM64\\Debug\\Terminatin a String.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
