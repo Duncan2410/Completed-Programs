@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "ReadAFile\\ARM64\\Debug\\ReadAFile.obj",
+            "outputs": [
+                "ReadAFile\\ARM64\\Debug\\ReadAFile.cpp.obj.dt.module.json",
+                "ReadAFile\\ARM64\\Debug\\ReadAFile.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

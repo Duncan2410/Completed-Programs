@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "NumberInput\\ARM64\\Debug\\NumberInput.obj",
+            "outputs": [
+                "NumberInput\\ARM64\\Debug\\NumberInput.cpp.obj.dt.module.json",
+                "NumberInput\\ARM64\\Debug\\NumberInput.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

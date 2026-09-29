@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "MaxAndMin\\ARM64\\Debug\\MaxAndMin.obj",
+            "outputs": [
+                "MaxAndMin\\ARM64\\Debug\\MaxAndMin.cpp.obj.dt.module.json",
+                "MaxAndMin\\ARM64\\Debug\\MaxAndMin.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
