@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "CountedLoop\\ARM64\\Debug\\CountedLoop.obj",
+            "outputs": [
+                "CountedLoop\\ARM64\\Debug\\CountedLoop.cpp.obj.dt.module.json",
+                "CountedLoop\\ARM64\\Debug\\CountedLoop.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

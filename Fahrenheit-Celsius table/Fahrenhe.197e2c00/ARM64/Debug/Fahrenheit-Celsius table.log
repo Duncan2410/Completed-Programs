@@ -1,0 +1,4 @@
+﻿  Fahrenheit-Celsius table.c
+C:\Users\duste\source\repos\Fahrenheit-Celsius table\Fahrenheit-Celsius table.c(15,9): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\duste\source\repos\Fahrenheit-Celsius table\Fahrenheit-Celsius table.c(18,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Fahrenheit-Celsius table.vcxproj -> C:\Users\duste\source\repos\Fahrenheit-Celsius table\ARM64\Debug\Fahrenheit-Celsius table.exe

@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Fahrenhe.197e2c00\\ARM64\\Debug\\Fahrenheit-Celsius table.obj",
+            "outputs": [
+                "Fahrenhe.197e2c00\\ARM64\\Debug\\Fahrenheit-Celsius table.cpp.obj.dt.module.json",
+                "Fahrenhe.197e2c00\\ARM64\\Debug\\Fahrenheit-Celsius table.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

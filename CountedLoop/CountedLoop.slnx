@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="ARM64" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="CountedLoop.vcxproj" Id="ad8ba498-ae1a-43ba-be11-0922542995d0" />
+</Solution>

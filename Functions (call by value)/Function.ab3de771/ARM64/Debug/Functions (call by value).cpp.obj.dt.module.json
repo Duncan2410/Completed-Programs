@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Function.ab3de771\\ARM64\\Debug\\Functions (call by value).obj",
+            "outputs": [
+                "Function.ab3de771\\ARM64\\Debug\\Functions (call by value).cpp.obj.dt.module.json",
+                "Function.ab3de771\\ARM64\\Debug\\Functions (call by value).cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
