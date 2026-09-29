@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Line Counting\\ARM64\\Debug\\Line Counting.obj",
+            "outputs": [
+                "Line Counting\\ARM64\\Debug\\Line Counting.cpp.obj.dt.module.json",
+                "Line Counting\\ARM64\\Debug\\Line Counting.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

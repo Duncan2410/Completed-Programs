@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "LineInput\\ARM64\\Debug\\LineInput.obj",
+            "outputs": [
+                "LineInput\\ARM64\\Debug\\LineInput.cpp.obj.dt.module.json",
+                "LineInput\\ARM64\\Debug\\LineInput.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

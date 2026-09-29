@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="ARM64" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Line Counting.vcxproj" Id="4f206615-515a-4cbc-8828-63b362836396" />
+</Solution>

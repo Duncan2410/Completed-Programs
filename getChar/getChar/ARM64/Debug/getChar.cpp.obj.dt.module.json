@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "getChar\\ARM64\\Debug\\getChar.obj",
+            "outputs": [
+                "getChar\\ARM64\\Debug\\getChar.cpp.obj.dt.module.json",
+                "getChar\\ARM64\\Debug\\getChar.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="ARM64" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Guessing.vcxproj" Id="06656796-bf6b-426e-a366-56dd7d15e738" />
+</Solution>
