@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="ARM64" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Entab.vcxproj" Id="0e16ef7b-aace-4a69-84a1-682b99915ffe" />
+</Solution>

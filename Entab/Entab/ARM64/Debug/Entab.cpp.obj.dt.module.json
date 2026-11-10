@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Entab\\ARM64\\Debug\\Entab.obj",
+            "outputs": [
+                "Entab\\ARM64\\Debug\\Entab.cpp.obj.dt.module.json",
+                "Entab\\ARM64\\Debug\\Entab.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

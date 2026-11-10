@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="ARM64" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ParagraphTab.vcxproj" Id="be0dbd02-b730-499e-ac42-d3ab53e275f8" />
+</Solution>

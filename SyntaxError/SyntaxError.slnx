@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="ARM64" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="SyntaxError.vcxproj" Id="42a7eff1-aff6-4cb2-8252-0fa86c384642" />
+</Solution>
