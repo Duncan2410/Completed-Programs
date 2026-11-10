@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "get_line get\\ARM64\\Debug\\get_line get.obj",
+            "outputs": [
+                "get_line get\\ARM64\\Debug\\get_line get.cpp.obj.dt.module.json",
+                "get_line get\\ARM64\\Debug\\get_line get.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

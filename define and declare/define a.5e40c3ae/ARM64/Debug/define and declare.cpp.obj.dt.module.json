@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "define a.5e40c3ae\\ARM64\\Debug\\define and declare.obj",
+            "outputs": [
+                "define a.5e40c3ae\\ARM64\\Debug\\define and declare.cpp.obj.dt.module.json",
+                "define a.5e40c3ae\\ARM64\\Debug\\define and declare.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

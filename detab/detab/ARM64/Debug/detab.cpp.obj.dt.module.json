@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "detab\\ARM64\\Debug\\detab.obj",
+            "outputs": [
+                "detab\\ARM64\\Debug\\detab.cpp.obj.dt.module.json",
+                "detab\\ARM64\\Debug\\detab.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

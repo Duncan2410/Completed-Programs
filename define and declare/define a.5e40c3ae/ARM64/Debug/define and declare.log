@@ -1,0 +1,5 @@
+﻿  define and declare.c
+C:\Users\duste\source\repos\define and declare\define and declare.c(18,16): warning C4013: 'get_line' undefined; assuming extern returning int
+C:\Users\duste\source\repos\define and declare\define and declare.c(21,4): warning C4013: 'copy' undefined; assuming extern returning int
+C:\Users\duste\source\repos\define and declare\define and declare.c(50,1): warning C4716: 'copy': must return a value
+  define and declare.vcxproj -> C:\Users\duste\source\repos\define and declare\ARM64\Debug\define and declare.exe

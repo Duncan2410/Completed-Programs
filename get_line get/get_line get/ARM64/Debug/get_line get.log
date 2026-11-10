@@ -1,0 +1,5 @@
+﻿  get_line get.c
+C:\Users\duste\source\repos\get_line get\get_line get.c(16,16): warning C4013: 'get_line' undefined; assuming extern returning int
+C:\Users\duste\source\repos\get_line get\get_line get.c(19,4): warning C4013: 'copy' undefined; assuming extern returning int
+C:\Users\duste\source\repos\get_line get\get_line get.c(49,1): warning C4716: 'copy': must return a value
+  get_line get.vcxproj -> C:\Users\duste\source\repos\get_line get\ARM64\Debug\get_line get.exe

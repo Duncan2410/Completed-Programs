@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="ARM64" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="detab.vcxproj" Id="ee294fa6-5a83-4d48-b172-502dd3ace3f0" />
+</Solution>
