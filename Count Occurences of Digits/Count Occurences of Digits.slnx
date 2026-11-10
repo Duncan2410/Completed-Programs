@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="ARM64" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Count Occurences of Digits.vcxproj" Id="4d401f7f-eea3-48d3-a428-f1feccb3c929" />
+</Solution>

@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Powers\\ARM64\\Debug\\Powers.obj",
+            "outputs": [
+                "Powers\\ARM64\\Debug\\Powers.cpp.obj.dt.module.json",
+                "Powers\\ARM64\\Debug\\Powers.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

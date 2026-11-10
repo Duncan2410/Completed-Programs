@@ -1,0 +1,3 @@
+﻿  Powers.c
+C:\Users\duste\source\repos\Powers\Powers.c(11,27): warning C4013: 'power' undefined; assuming extern returning int
+  Powers.vcxproj -> C:\Users\duste\source\repos\Powers\ARM64\Debug\Powers.exe

@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Count Oc.4d401f7f\\ARM64\\Debug\\Count Occurences of Digits.obj",
+            "outputs": [
+                "Count Oc.4d401f7f\\ARM64\\Debug\\Count Occurences of Digits.cpp.obj.dt.module.json",
+                "Count Oc.4d401f7f\\ARM64\\Debug\\Count Occurences of Digits.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
